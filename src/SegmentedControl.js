@@ -29,6 +29,7 @@ class SegmentedControl extends Component {
       width: '100%'
     }
 
+
     const style = extend(defaultStyle, this.props.style)
 
     return (
